@@ -1,0 +1,17 @@
+{
+  "name": "chokidar",
+  "version": "1.0.0",
+  "description": "Compile multiple Elm modules using Brunch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "brunch watch --server"
+  },
+  "author": "Matt Weldon",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-brunch": "^6.0.4",
+    "brunch": "^2.8.0",
+    "elm-brunch": "^0.5.0"
+  }
+}
